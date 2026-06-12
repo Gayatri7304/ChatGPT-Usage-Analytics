@@ -46,3 +46,7 @@ This project analyzes ChatGPT user behavior using Python and Power BI.
 
 \- Interactive Slicer
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
